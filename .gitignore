@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+.env.*
+.venv
+
+# Optional files
+*.sqlite3
+*.db
+.DS_Store
+Thumbs.db
